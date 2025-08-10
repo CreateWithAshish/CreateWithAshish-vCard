@@ -1,3 +1,3 @@
-# vCard - Personal portfolio
+# vCard - Webcard
 
 My digital space for project, skills and contact info.....
